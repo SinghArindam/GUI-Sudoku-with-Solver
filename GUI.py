@@ -46,6 +46,10 @@ class SudokuApp(ctk.CTk):
         )
         self.solve_button.pack(pady=10)
 
+        
+        self.info = ctk.CTkLabel(self, text="Credits: @SinghArindam")
+        self.info.pack(pady=10)
+
     def create_grid(self):
         font = ("Arial", 16)
         for i in range(9):
