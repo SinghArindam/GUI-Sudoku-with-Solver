@@ -21,6 +21,7 @@ Click a box and hit the number on your keybaord to enter a number. It will valid
 
 ![v1](assets/v1.gif)
 ![v2](assets/v2.gif)
+![v3](assets/v3.png)
 
 -----
 
